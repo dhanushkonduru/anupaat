@@ -1,0 +1,9 @@
+metric,full_freeze,proportional,fifo
+Legitimate money frozen in innocent accounts (Rs),337592590.14,0.0,0.0
+Innocent accounts with any freeze,1436,1436,1427
+Innocent accounts frozen beyond their stolen share,1436,0,0
+"Legitimate money frozen, all accounts (Rs)",340397483.79,0.0,0.0
+Stolen money frozen (Rs),76539821.21,76539821.21,82395849.0
+Stolen money frozen in innocent accounts (Rs),14621670.86,14621670.86,17960731.0
+Total money frozen (Rs),416937305.0,76539821.21,82395849.0
+Mean recoverable share per victim (%),48.09,48.09,52.5
